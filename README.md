@@ -20,7 +20,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+* [x] Can you successfully add and remove items from the todo list within your app?
+* [x] Does your app persist todo items and retrieve them properly on app restart?
+* [x] Did you successfully push your code to github? Can you see the code on github?
+* [x] Did you add a README.md to the repo on github copied from this template?
+* [x] Does your README include a GIF walkthrough of the app's functionality?
+* [x] Did you visit your application dashboard and submit using the pre-work form?
+
+
 
 ## Video Walkthrough
 
